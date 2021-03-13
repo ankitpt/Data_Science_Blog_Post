@@ -1,11 +1,10 @@
 # Data Science Blog Post
 
-#### Table of Contents
-#### Installation
-##### Project Motivation
-##### Dataset
-##### Acknowledgements
-
+## Table of Contents
+#### 1. Installation
+#### 2. Project Motivation
+#### 3. Dataset
+#### 4. Acknowledgements
 
 ### Project Motivation
 This is an Udacity Nanodegree project. The dataset I chose had statitics of players in top 5 soccer leagues across Europe from year 2014-2015 to 2019-20. Apart from attributes like goals, assists, yellow and red cards,etc, there were some other interesting statistics such as expected goals, expected assists, key passes,etc. 
