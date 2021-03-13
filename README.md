@@ -10,7 +10,7 @@
 
 ## Installation <a name="installation"></a>
 This code runs with Python version 3.* and requires some libraries, to install theses libraries you will need to execute: </br>
-' pip install -r requirements.txt ' `
+` pip install -r requirements.txt `
 
 
 ## Project Motivation<a name="motivation"></a>
