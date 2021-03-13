@@ -5,7 +5,7 @@ Project Motivation
 Licensing, Authors, and Acknowledgements
 
 
-###Project Motivation
+### Project Motivation
 This is an Udacity Nanodegree project. The dataset I chose had statitics of players in top 5 soccer leagues across Europe from year 2014-2015 to 2019-20. Apart from attributes like goals, assists, yellow and red cards,etc, there were some other interesting statistics such as expected goals, expected assists, key passes,etc. 
 
 
@@ -16,6 +16,6 @@ Who are the most unlucky players? Which strikers are most lethal in front of the
 Which teams are most dependent on a single or couple of players in a particular season?
 
 
-###File Descriptions
+### File Descriptions
 
-###Licensing, Authors, Acknowledgements
+### Licensing, Authors, Acknowledgements
