@@ -9,7 +9,7 @@
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
-This code runs with Python version 3.* and libraries and their respective versions mentioned in *requirement.txt*. Following command can be executed for their installation: </br>
+This code runs with Python version 3.* and libraries and their respective versions mentioned in *requirements.txt*. Following command can be executed for their installation: </br>
 ` pip install -r requirements.txt `
 
 
