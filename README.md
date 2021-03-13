@@ -1,8 +1,10 @@
 # Data Science Blog Post
 
-##Table of Contents
-Project Motivation
-Licensing, Authors, and Acknowledgements
+#### Table of Contents
+#### Installation
+##### Project Motivation
+##### Dataset
+##### Acknowledgements
 
 
 ### Project Motivation
@@ -11,9 +13,9 @@ This is an Udacity Nanodegree project. The dataset I chose had statitics of play
 
 With the data at hand, I tried to answer following questions:
 
-Which league has the most attacking defenders across Europe's top 5 league in the last 6 seasons? 
-Who are the most unlucky players? Which strikers are most lethal in front of the goal?
-Which teams are most dependent on a single or couple of players in a particular season?
+- Which league has the most attacking defenders across Europe's top 5 league in the last 6 seasons? 
+- Which teams outperform their expected goals measure while which ones underperform (and in which season)? How is it related to performance in respective league in that year? Further, which teams constantly outperform their expected goals measure?
+- One man army: In a particular season and league, which teams were most dependent on a single player for scoring goals?
 
 
 ### File Descriptions
