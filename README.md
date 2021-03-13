@@ -1,12 +1,16 @@
 # Data Science Blog Post
 
-## Table of Contents
-#### 1. Installation
-#### 2. Project Motivation
-#### 3. Dataset
-#### 4. Acknowledgements
+### Table of Contents
 
-### Project Motivation
+1. [Installation](#installation)
+2. [Project Motivation](#motivation)
+3. [File Descriptions](#files)
+4. [Results](#results)
+5. [Licensing, Authors, and Acknowledgements](#licensing)
+
+## Installation <a name="installation"></a>
+
+## Project Motivation<a name="motivation"></a>
 This is an Udacity Nanodegree project. The dataset I chose had statitics of players in top 5 soccer leagues across Europe from year 2014-2015 to 2019-20. Apart from attributes like goals, assists, yellow and red cards,etc, there were some other interesting statistics such as expected goals, expected assists, key passes,etc. 
 
 
@@ -17,6 +21,10 @@ With the data at hand, I tried to answer following questions:
 - One man army: In a particular season and league, which teams were most dependent on a single player for scoring goals?
 
 
-### File Descriptions
+## File Descriptions <a name="files"></a>
+*data* folder consists of csv files containing statisitics of each player in Europe's top 5 soccer league teams from year 2014-15 to 2019-20.
 
-### Licensing, Authors, Acknowledgements
+## Results<a name="results"></a>
+
+## Licensing, Authors, Acknowledgements<a name="licensing"></a>
+The data was obtained from [Kaggle](https://www.kaggle.com/jashsheth5/indepth-soccer-statistics-xg-xa-and-more). The Gini coefficient analysis is based on ideas presented in [this](https://statsbomb.com/2018/08/introducing-xgchain-and-xgbuildup/) article. Further, I would also like to acknowledge Udacity Data Scientist Nanodegree instructors for providing an opportunity of creating a blog for a data science problem. 
