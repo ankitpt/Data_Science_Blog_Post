@@ -4,7 +4,7 @@
 
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
-3. [File Descriptions](#file descriptions)
+3. [File Descriptions](#filedescriptions)
 4. [Results](#results)
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
@@ -24,7 +24,7 @@ With the data at hand, I tried to answer following questions:
 - One man army: In a particular season and league, which teams were most dependent on a single player for scoring goals?
 
 
-## File Descriptions <a name="file descriptions"></a>
+## File Descriptions <a name="filedescriptions"></a>
 *data* folder consists of csv files containing statisitics of each player in Europe's top 5 soccer league teams from year 2014-15 to 2019-20.
 
 ## Results<a name="results"></a>
