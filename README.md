@@ -20,14 +20,15 @@ This is an Udacity Nanodegree project. The dataset I chose had statitics of play
 With the data at hand, I tried to answer following questions:
 
 - Which league has the most attacking defenders across Europe's top 5 league in the last 6 seasons? 
-- Which teams outperform their expected goals measure while which ones underperform (and in which season)? How is it related to performance in respective league in that year? Further, which teams constantly outperform their expected goals measure?
-- One man army: In a particular season and league, which teams were most dependent on a single player for scoring goals?
+- Which teams outperform their expected goals measure while which ones underperform (and in which season)? How is it related to performance in respective league in that year? Further, which teams constantly outperform their expected goals measure in last 5 seasons?
+- In a particular season and league, which teams were most dependent on a single player for scoring goals?: a Gini coefficient analysis of expected goals chain statistic
 
 
 ## File Descriptions <a name="filedescriptions"></a>
 *data* folder consists of csv files containing statisitics of each player in Europe's top 5 soccer league teams from year 2014-15 to 2019-20.
 
 ## Results<a name="results"></a>
+The main findings of this work can be found on my [Medium blog](https://ankit-patel03.medium.com/an-analysis-of-teams-and-players-across-europes-top-5-soccer-leagues-756fda551c70)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 The data was obtained from [Kaggle](https://www.kaggle.com/jashsheth5/indepth-soccer-statistics-xg-xa-and-more). The Gini coefficient analysis is based on ideas presented in [this](https://statsbomb.com/2018/08/introducing-xgchain-and-xgbuildup/) article. Further, I would also like to acknowledge Udacity Data Scientist Nanodegree instructors for providing an opportunity of creating a blog for a data science problem. 
